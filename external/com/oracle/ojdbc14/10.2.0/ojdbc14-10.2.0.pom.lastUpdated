@@ -1,0 +1,26 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Jun 02 13:20:10 IST 2013
+http\://spring-roo-repository.springsource.org/release/.lastUpdated=1311142511597
+http\://repo1.maven.org/maven2/.lastUpdated=1311142518555
+https\://github.com/wizspark/spotlight-repo/raw/master/external/.lastUpdated=1370159410889
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1311142516644
+https\://github.com/cemerick/cemerick-mvn-repo/raw/master/snapshots/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1311142507990
+https\://github.com/wizspark/spotlight-repo/raw/master/external/.error=
+http\://maven.springframework.org/milestone/.error=
+http\://twitter4j.org/maven2/.error=
+https\://github.com/wizspark/spotlight-repo/raw/master/snapshots/.error=
+http\://twitter4j.org/maven2/.lastUpdated=1370148030612
+${project.repo.url}=1275462445848
+http\://repo.maven.apache.org/maven2/.lastUpdated=1370148033897
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo1.maven.org/maven2=1275462446723
+http\://spring-roo-repository.springsource.org/release/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1370148032963
+http\://maven.springframework.org/release/.lastUpdated=1311142508694
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://github.com/cemerick/cemerick-mvn-repo/raw/master/snapshots/.lastUpdated=1370159381043
+http\://repo1.maven.org/maven2/.error=
+http\://maven.springframework.org/release/.error=
+https\://github.com/wizspark/spotlight-repo/raw/master/snapshots/.lastUpdated=1370159397953
