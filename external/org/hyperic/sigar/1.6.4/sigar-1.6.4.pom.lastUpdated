@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 23 15:35:20 IST 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1398247520679
+@default-https\://github.com/wizspark/spotlight-repo/raw/master/external/.lastUpdated=1398247519562
+https\://github.com/wizspark/spotlight-repo/tree/master/external/.error=Could not transfer artifact org.hyperic\:sigar\:pom\:1.6.4 from/to wizni-repo (https\://github.com/wizspark/spotlight-repo/tree/master/external)\: Checksum validation failed, no checksums available from the repository
+http\://repo.maven.apache.org/maven2/.error=
+@default-https\://github.com/wizspark/spotlight-repo/tree/master/external/.lastUpdated=1398247514117
+https\://github.com/wizspark/spotlight-repo/raw/master/external/.error=Could not transfer artifact org.hyperic\:sigar\:pom\:1.6.4 from/to spotlight-external (https\://github.com/wizspark/spotlight-repo/raw/master/external)\: Checksum validation failed, no checksums available from the repository
